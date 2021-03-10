@@ -24,8 +24,8 @@ p{
   border-radius: 50%;
   border: #FFFFFF 3px solid; 
   position: absolute;
-  left: 472.5px;
-  bottom: 377.5px;
+  top: -75px;
+  right: -75px;
 }
 
 
